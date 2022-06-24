@@ -50,7 +50,7 @@ The goal of Day 3 is expose our community in Research software engineering and c
 |The Research Software Encyclopedia – what’s research software? | Speaker TBC |
 | Developing the Research Software Community | Speaker TBC|
 |Implementing FAIR for research software | [Jannetta Steyn](https://rse.ncldata.dev/jannetta-steyn)|
-|Research software development and management | Mwaniki Njagi |
+|Research software development and management | TBC |
 |Lunch Break|
 |Open dialogue with a research software group | Research Software group - TBC|
 
