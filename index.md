@@ -14,8 +14,8 @@ The afternoon practical sessions will introduce available open source project pl
 
 | **Talk** | **Speaker** |
 |:---------------------- | :-------------------------------------------- |
-|Project plan – part one: <br/>Deciding on a project goal | Speaker TBC |
-|Project plan - part two: <br/>Developing goals and objectics | Speaker TBC|
+|Project plan – part one: <br/>Deciding on a project goal | Caleb Kibet |
+|Project plan - part two: <br/>Developing goals and objectics | Caleb Kibet |
 |Data Management planning | Speaker TBC|
 |FAIR data| Speker TBC|
 |Lunch Break|
@@ -31,7 +31,7 @@ Afternoon sessions: All participants will be introduced to reporting scientific 
 
 | **Talk** | **Speaker** |
 |:---------------------- | :------------------------------------- |
-|Seminar talk: Genomics   | Speaker TBC |
+|Seminar talk: Genomics   | Fredrick Mobegi |
 |Seminar talk: Proteomics | Speaker TBC|
 |Seminar talk: Transcriptomics/Metabolomics| Speaker TBC|
 |Open dialogue - Whats new? | All in separate groups |
@@ -49,8 +49,8 @@ The goal of Day 3 is expose our community in Research software engineering and c
 |:---------------------- | :------------------------------------- |
 |The Research Software Encyclopedia – what’s research software? | Speaker TBC |
 | Developing the Research Software Community | Speaker TBC|
-|Implementing FAIR for research software | Speaker TBC|
-|Research software development and management | Speaker TBC |
+|Implementing FAIR for research software | [Jannetta Steyn](https://rse.ncldata.dev/jannetta-steyn)|
+|Research software development and management | Mwaniki Njagi |
 |Lunch Break|
 |Open dialogue with a research software group | Research Software group - TBC|
 
