@@ -17,7 +17,7 @@ The afternoon practical sessions will introduce available open source project pl
 |Project plan – part one: <br/>Deciding on a project goal | Caleb Kibet |
 |Project plan - part two: <br/>Developing goals and objectics | Caleb Kibet |
 |Data Management planning | Speaker TBC|
-|FAIR data| Speker TBC|
+|FAIR data| Jean-Baka Domelevo Entfellner |
 |Lunch Break|
 |Practical sessions 1|
 |Practical sessions 2 |
