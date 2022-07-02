@@ -10,7 +10,7 @@ Below is a three-day program of the hybrid event.
 <br/>
 
 |**Time (EAT)**| **Talk** | **Speaker** |
-|:-----------|:---------------------- | :-------------------------------------------- |
+|:---------------:|:---------------------- | :-------------------------------------------- |
 |0945 - 1000|Welcoming note|BHKi Team|
 |1000 - 1030 |Project plan – part one: <br/>Deciding on a project goal | Caleb Kibet |
 |1030 - 1040|Q&A session||
@@ -38,7 +38,7 @@ Afternoon sessions: All participants will be grouped into four groups - genomics
 <br/>
 
 |**Time (EAT)**| **Talk** | **Speaker** |
-|:-----------|:---------------------- | :-------------------------------------------- |
+|:----------------:|:---------------------- | :-------------------------------------------- |
 |0945 - 1000|Welcoming note|BHKi Team|
 |1000 - 1030 | Genomics - keynote  | Fredrick Mobegi |
 |1030 - 1040|Q&A session|
