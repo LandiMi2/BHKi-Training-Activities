@@ -67,7 +67,7 @@ Practical sessions on project planning and data management sessions - e.g Github
 
 **Research software - August (Dates to be confirmed soon)**
 <br/>
-We plan to have this seminar series on a different date because our target audiences are researchers and students in software research engineering. This seminar will expose our community to Research software engineering skills and create a room for collaborations with skilled research software individuals/groups. In the end, grow existing research software engineers within our community and expand their networks. 
+We plan to have this seminar series on a different date because our target audiences are researchers and students in software research engineering. This seminar will expose our community to research software engineering skills and create a room for collaborations with skilled research software individuals/groups. In the end, grow existing research software engineers within our community and expand their networks. 
 
 | **Talk** | **Speaker** |
 |:---------------------- | :------------------------------------- |
