@@ -20,7 +20,8 @@ Below is a three-day program of the hybrid event.
 |1125 - 1155 |Data Management planning | Sara El-Gebali |
 |1155 - 1205 |Q&A session||
 |1205 - 1235|FAIR data| Jean-Baka Domelevo Entfellner |
-|1235 - 1245| LUNCH BREAK||
+|1235 - 1245|Q&A session|
+|1245 - 1400| LUNCH BREAK||
 |1400 - 1430|Manuscript and publishing in open journals|Oluwaseyi Shorinola (TBC)|
 |1430 - 1440|Q&A session||
 |1440 - 1510| Communicating your science | Peter Emmrich (TBC)|
