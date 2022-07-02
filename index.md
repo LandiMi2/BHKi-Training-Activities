@@ -11,7 +11,7 @@ Below is a three-day program of the hybrid event.
 
 |**Time (EAT)**| **Talk** | **Speaker** |
 |:---------------:|:---------------------- | :-------------------------------------------- |
-|0945 - 1000|Welcoming note|BHKi Team|
+|0945 - 1000| Welcoming note | BHKi Team |
 |1000 - 1030 |Project plan – part one: <br/>Deciding on a project goal | Caleb Kibet |
 |1030 - 1040|Q&A session||
 |1040 - 1110 |Project plan - part two: <br/>Developing goals and objectics | Caleb Kibet |
@@ -29,6 +29,7 @@ Below is a three-day program of the hybrid event.
 |1525 - 1555|Student - Supervisor relationship - Mental health in research|Dave Horsfall|
 |1555 - 1605|Q&A session||
 |1605 - 1610|End of the day |
+
 <br/>
 
 **Day 2 : Omics - Genomics, Proteomics, Transcriptomics and metabolomics.**
