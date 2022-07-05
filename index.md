@@ -22,7 +22,7 @@ Below is a three-day program of the hybrid event.
 |1205 - 1235|FAIR data| Jean-Baka Domelevo Entfellner |
 |1235 - 1245|Q&A session|
 |1245 - 1400| LUNCH BREAK||
-|1400 - 1430|Manuscript and publishing in open journals|Oluwaseyi Shorinola (TBC)|
+|1400 - 1430|Manuscript and publishing in open journals|Oluwaseyi Shorinola|
 |1430 - 1440|Q&A session||
 |1440 - 1510| Communicating your science | Peter Emmrich (TBC)|
 |1510 - 1520|Q&A session||
