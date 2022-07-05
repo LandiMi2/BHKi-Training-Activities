@@ -47,7 +47,7 @@ Afternoon sessions: All participants will be grouped into four groups - genomics
 |1040 - 1110 |Transcriptomics - Keynote | Adnan Niazi (TBC)|
 |1110 - 1120|Q&A session|
 |1120 - 1125 |BREAK|
-|1125 - 1155| Proteomics - Keynote|James Nyagwange(TBC)|
+|1125 - 1155| Proteomics - Keynote|James Nyagwange|
 |1155 - 1205 |LUNCH BREAK|
 |1400 - 1410|Grouping |
 |1410 - 1510|Open dialogue - break out session|
