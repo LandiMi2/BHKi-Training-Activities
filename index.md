@@ -44,7 +44,7 @@ Afternoon sessions: All participants will be grouped into four groups - genomics
 |0945 - 1000|Welcoming note|BHKi Team|
 |1000 - 1030 | Genomics - keynote  | Fredrick Mobegi |
 |1030 - 1040|Q&A session|
-|1040 - 1110 |Transcriptomics - Keynote | Adnan Niazi (TBC)|
+|1040 - 1110 |Transcriptomics - Keynote |Fredrick Mobegi |
 |1110 - 1120|Q&A session|
 |1120 - 1125 |BREAK|
 |1125 - 1155| Proteomics - Keynote|James Nyagwange|
