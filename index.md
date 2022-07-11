@@ -1,4 +1,4 @@
-The Bioinformatics Hub of Kenya Intiative ([BHKi](https://bhki.org/)) is organizing a three day hybrid (in-person and virtual) seminar series event, scheduled in **July 19-21 2022**. 
+The Bioinformatics Hub of Kenya Intiative ([BHKi](https://bhki.org/)) is organizing a three day hybrid (in-person and virtual) seminar series event, scheduled in **July 19-20 2022**. 
 
 ### BHKi Seminars: Bioinformatics, software engineering and Data Management
 
@@ -57,12 +57,6 @@ Afternoon sessions: All participants will be grouped into four groups - genomics
 |1555 - 1550|Each group give a summary of discussion - 10min each |
 |1550 - 1600|End of the day|
 
-<br/>
-
-**Day 3: Practical day**
-
-_Program to uploaded soon_
-Practical sessions on project planning and data management sessions - e.g Github projects and agile etc 
 
 <br/>
 
