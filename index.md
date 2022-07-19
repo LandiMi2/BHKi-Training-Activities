@@ -24,7 +24,7 @@ Below is a three-day program of the hybrid event.
 |1245 - 1400| LUNCH BREAK||
 |1400 - 1430|Manuscript and publishing in open journals|Oluwaseyi Shorinola|
 |1430 - 1440|Q&A session||
-|1440 - 1510| Communicating your science | Peter Emmrich (TBC)|
+|1440 - 1510| Communicating your science | Peter Emmrich|
 |1510 - 1520|Q&A session||
 |1520 - 1525|BREAK||
 |1525 - 1555|Student - Supervisor relationship - Mental health in research|Dave Horsfall|
